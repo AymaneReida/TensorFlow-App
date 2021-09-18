@@ -3,7 +3,9 @@ TensorFlow Application
 
 /Images --> A neural network model to classify images of clothing, like sneakers and shirts.
 
-/Text   --> Demonstrates text classification starting from plain text files stored on disk.
+/Text --> Demonstrates text classification starting from plain text files stored on disk.
+
+/Regression --> Predict the fuel efficiency of late-1970s and early 1980s automobiles.
 
                         <-----------          images_prediction         ----------->
 
